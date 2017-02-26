@@ -1,7 +1,7 @@
 
 ## enablr
 
-enablr is an [R](https://www.r-project.org) package with R functions that I use.
+enablr is an [R](https://www.r-project.org) package with functions that are useful to me.
 
 ### Installation
 
